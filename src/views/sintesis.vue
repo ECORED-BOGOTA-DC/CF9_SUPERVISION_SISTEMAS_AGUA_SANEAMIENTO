@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 La educación y promotoría ambiental, junto a  su normativa y los diferentes planes, programas y proyectos institucionales permites preparar las actividades de promotoría, sensibilización y fortalecimiento institucional, teniendo en cuenta las características de la población.
 
     .row.justify-content-center
       .col-lg-10.mb-5
