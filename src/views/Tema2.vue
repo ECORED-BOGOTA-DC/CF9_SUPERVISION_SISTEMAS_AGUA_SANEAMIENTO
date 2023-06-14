@@ -27,7 +27,7 @@
             .BGR03A.px-4.py-3
               .h2.text-center.text-white.mb-0 1
           .tarjeta.BGR02A.p-4
-            .row.justify-content-center.align-items-center
+            .row.justify-content-center
               .col-xl-2.col-lg-3.col-2.ps-3.pe-1.py-1
                 img(src='@/assets/curso/tema2/img02.png')
               .col
@@ -38,7 +38,7 @@
             .BGR04B.px-4.py-3
               .h2.text-center.text-white.mb-0 2
           .tarjeta.BGR02B.p-4
-            .row.justify-content-center.align-items-center
+            .row.justify-content-center
               .col-xl-2.col-lg-3.col-2.ps-3.pe-1.py-1
                 img(src='@/assets/curso/tema2/img03.png')
               .col
@@ -49,7 +49,7 @@
             .BGR05C.px-4.py-3
               .h2.text-center.text-white.mb-0 3
           .tarjeta.BGR02C.p-4
-            .row.justify-content-center.align-items-center
+            .row.justify-content-center
               .col-xl-2.col-lg-3.col-2.ps-3.pe-1.py-1
                 img(src='@/assets/curso/tema2/img04.png')
               .col
@@ -662,6 +662,7 @@
       .col-lg-8(data-aos="fade-left")
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 De acuerdo con el Observatorio Ambiental de Bogotá, los Proyectos Ambientales Universitarios (PRAU), contemplados en la Política Nacional de Educación Ambiental, en la estrategia “dimensión ambiental en la educación formal”, proponen involucrar la dimensión ambiental en el currículo de la educación superior (programas de formación inicial y de especialización de profesionales, proyecto de investigación en ambiente y en educación ambiental y servicio social obligatorio para profesionales).        p Es así que para la implementación de los Proyectos Ambientales Universitarios (PRAU) se deben involucrar dinámicas ambientales locales y distritales en los procesos de educación impartidos desde los diferentes programas académicos de las universidades.
+        p.mb-0 Es así que para la implementación de los Proyectos Ambientales Universitarios (PRAU) se deben involucrar dinámicas ambientales locales y distritales en los procesos de educación impartidos desde los diferentes programas académicos de las universidades.
 
 </template>
 

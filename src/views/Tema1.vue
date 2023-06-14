@@ -89,7 +89,7 @@
 
     p.mb-5 Rengifo, et al., (2012), establecen que se pueden inferir tres lineamientos básicos en la educación ambiental:
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-right") 
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
@@ -184,7 +184,7 @@
     p.mb-5 A continuación se describen dichas jerarquías en la educación ambiental.
     
     .BGR09.p-4.mb-5(data-aos="zoom-in")
-      LineaTiempoC.color-acento-contenido(text-small)
+      LineaTiempoC.color-primario(text-small)
         .row.justify-content-center(titulo="Primer Nivel")
           .col-lg-6.order-lg-1.order-2
             .h4 Fundamentos ecológicos
@@ -221,7 +221,7 @@
         p Esta metodología afirma que los conocimientos no se transmiten, sino que se construyen. Por lo tanto, las personas deben investigar sus propias representaciones, las de su medio social, familiar y las de su entorno natural. 
         p Este método tiene su fundamentación teórica en los métodos educativos de Paulo Freire. Se propone romper la separación sujeto-objeto, investigador-investigado, salvar la distancia entre teoría e investigación y evitar la fractura entre teoría y práctica: no hay que conformarse y explicar los problemas sociales, sino que también hay que transformarlos a través de la acción investigativa.
         .cajon.color-primario.p-4
-          .h5.mb-0 #[em “La IAP pone al sujeto como productor de conocimientos en la reflexión de sí mismo y de su realidad, para generar cambios conscientes en el individuo y en su contexto social” (p. 11).]
+          .h5.mx-5.mb-0 #[em “La IAP pone al sujeto como productor de conocimientos en la reflexión de sí mismo y de su realidad, para generar cambios conscientes en el individuo y en su contexto social” (p. 11).]
 
     separador
     #t_1_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -233,7 +233,7 @@
       .col-12.BGRS10.p-4(data-aos="fade-right")
         .row.justify-content-start
           .col-lg-8
-            p.mb-0 Un instrumento estratégico para el desarrollo de una comunidad, que está orientado a provocar un cambio de actitud y a vencer las resistencias de la población hacia ese cambio. La base principal de las actividades de promoción es la participación organizada de la población, a partir de su cultura y sus condiciones socioeconómicas. La población es el sujeto y el protagonista de su propio crecimiento. La base de la promotoría es el trabajo organizado en torno a un objetivo común, apoyado en un proceso educativo que tiende al cambio de actitudes del individuo, la familia y el grupo social. Está siempre vinculada a un programa que persigue metas y objetivos establecidos, de acuerdo a las necesidades del contexto físico, ecológico, social, político, económico, histórico y cultural de la comunidad y la idiosincrasia de los individuos (p. 4).
+            p.ms-4.mb-0 Un instrumento estratégico para el desarrollo de una comunidad, que está orientado a provocar un cambio de actitud y a vencer las resistencias de la población hacia ese cambio. La base principal de las actividades de promoción es la participación organizada de la población, a partir de su cultura y sus condiciones socioeconómicas. La población es el sujeto y el protagonista de su propio crecimiento. La base de la promotoría es el trabajo organizado en torno a un objetivo común, apoyado en un proceso educativo que tiende al cambio de actitudes del individuo, la familia y el grupo social. Está siempre vinculada a un programa que persigue metas y objetivos establecidos, de acuerdo a las necesidades del contexto físico, ecológico, social, político, económico, histórico y cultural de la comunidad y la idiosincrasia de los individuos (p. 4).
       .col-lg-3.col-6.pb-2.img-02(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img21.svg')
     
@@ -405,7 +405,7 @@
     .row.justify-content-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         .BG12.p-4.mb-4
-          p.mb-0 La responsabilidad social es un atributo que puede ser dado a nivel comunitario o empresarial. significa que las empresas, además de maximizar el valor para el accionista, deben actuar de forma que beneficien a la sociedad, no sólo a la cuenta de resultados. La responsabilidad social es cada vez más importante para los inversores y los consumidores, que buscan inversiones que no sólo sean rentables, sino que también contribuyan al bienestar de la sociedad y del medio ambiente. Aunque tradicionalmente los críticos han argumentado que la naturaleza básica de las empresas no considera a la sociedad como parte interesada, las generaciones más jóvenes están adoptando la responsabilidad social e impulsando el cambio donde se podrán ver diferentes definiciones y una contextualización más amplia desde la perspectiva empresarial.
+          p.mx-4.mb-0 La responsabilidad social es un atributo que puede ser dado a nivel comunitario o empresarial. significa que las empresas, además de maximizar el valor para el accionista, deben actuar de forma que beneficien a la sociedad, no sólo a la cuenta de resultados. La responsabilidad social es cada vez más importante para los inversores y los consumidores, que buscan inversiones que no sólo sean rentables, sino que también contribuyan al bienestar de la sociedad y del medio ambiente. Aunque tradicionalmente los críticos han argumentado que la naturaleza básica de las empresas no considera a la sociedad como parte interesada, las generaciones más jóvenes están adoptando la responsabilidad social e impulsando el cambio donde se podrán ver diferentes definiciones y una contextualización más amplia desde la perspectiva empresarial.
         p.mb-0 De acuerdo con Barón (2014), la Responsabilidad Social Empresarial (RSE) surge en los años 20, pero toma fuerza en las décadas de 1950 y 1960. Se inicia por la idea fundamental que si las empresas usan recursos naturales y sociales, el solo hecho de su uso genera un deber ético, por lo tanto, de alguna manera este uso se devolverá a la sociedad. Las empresas deben ser responsables, por consiguiente, deben ir más allá de la generación de trabajo y riqueza para los empresarios; deben velar por el bienestar de la comunidad donde se encuentran realizando sus actividades.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img29.svg')
@@ -547,7 +547,7 @@
         img(src='@/assets/curso/tema1/img44.png')
       .col-lg-8(data-aos="fade-left")
         .cajon.color-acento-contenido.p-4
-          p.mb-0 Desde la particularidad e integración de los actores, con miras al logro de los objetivos compartidos y mediante la disposición de recursos en el corto, mediano y largo plazo, el trabajo con comunidades debe partir de una metodología de planeación estratégica que permita la construcción de acciones colectivas frente a metas de largo plazo, sin perder de vista el involucramiento de las comunidades y la incorporación de sus opiniones en el análisis de la realidad.
+          p.mx-4.mb-0 Desde la particularidad e integración de los actores, con miras al logro de los objetivos compartidos y mediante la disposición de recursos en el corto, mediano y largo plazo, el trabajo con comunidades debe partir de una metodología de planeación estratégica que permita la construcción de acciones colectivas frente a metas de largo plazo, sin perder de vista el involucramiento de las comunidades y la incorporación de sus opiniones en el análisis de la realidad.
     
     p El compromiso de los representantes del Estado, empresa y sociedad es vital para alcanzar la construcción de una interpretación compartida de los retos y de las oportunidades para el desarrollo y la cohesión social desde el entorno local; los escenarios de encuentro cotidiano son una alternativa viable para la movilización y dinamización de acciones desde los actores, pues, involucrándose a través de la asignación de responsabilidades y compromisos, se puede construir el engranaje necesario para dar respuesta a diversas problemáticas propias del territorio desde lo local y a identificar los recursos que deban ser requeridos desde el exterior (p. 171).
 
