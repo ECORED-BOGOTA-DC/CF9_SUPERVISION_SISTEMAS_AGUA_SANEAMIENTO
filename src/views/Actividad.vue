@@ -10,12 +10,12 @@
             img(src="@/assets/template/arrastrar.svg")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Relacionar conceptos
+          h2 Relacionar terminos
         p.mb-4 Manejar los conceptos de promotoría para la coordinación de campañas ambientales teniendo en cuenta las características de la población.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Arrastrar y soltar
+              p.fw-bold.mb-0 Relacionar terminos
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar

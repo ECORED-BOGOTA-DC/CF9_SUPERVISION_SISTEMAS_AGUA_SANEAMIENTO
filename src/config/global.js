@@ -150,11 +150,6 @@ export default {
         download: 'downloads/prueba.pdf',
       },
       {
-        icono: 'fas fa-file-pdf',
-        titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
-      },
-      {
         icono: 'fas fa-download',
         titulo: 'Descargar HTML',
         download: 'downloads/material.zip',
@@ -171,7 +166,7 @@ export default {
       tema: '2. Planes y programas',
       referencia:
         'Establecimiento Público Ambiental de Cartagena. (2017). Marco normativo de la educación ambiental. Cartagena, Colombia.',
-      tipo: 'Articulo',
+      tipo: 'Artículo',
       link:
         'http://observatorio.epacartagena.gov.co/wp-content/uploads/2017/05/Marco-Normativo-de-la-Educaci%C3%B3n-Ambiental.pdf',
     },
@@ -213,7 +208,7 @@ export default {
     {
       termino: 'Contaminación',
       significado:
-        'liberación de sustancias que de manera directa o indirecta, causan efectos adversos sobre el medio ambiente y los seres vivos. Existencia en el ambiente de contaminantes o agentes tóxicos o infecciosos que entorpecen o perjudican la vida, la salud y el bienestar del hombre, la fauna y la flora; que degradan la calidad del ambiente y en general, el equilibrio ecológico y los bienes particulares y públicos (CRQ, s. f.).',
+        'liberación de sustancias que, de manera directa o indirecta, causan efectos adversos sobre el medio ambiente y los seres vivos. Existencia en el ambiente de contaminantes o agentes tóxicos o infecciosos que entorpecen o perjudican la vida, la salud y el bienestar del hombre, la fauna y la flora; que degradan la calidad del ambiente y en general, el equilibrio ecológico y los bienes particulares y públicos (CRQ, s. f.).',
     },
     {
       termino: 'Organizaciones o movimientos de base',
@@ -243,8 +238,8 @@ export default {
     },
     {
       referencia:
-        'Corporación Autónoma de Tolima - Cortolima. (2009). Promotores ambientales. Corporación Autónoma de Tolima - Cortolima.',
-      link: 'https://www.cortolima.gov.co/promotores-ambientales',
+        'Corporación Autónoma de Tolima - Cortolima. Red de jóvenes de ambiente del Tolima',
+      link: 'https://www.cortolima.gov.co/planes-y-programas/cidea',
     },
     {
       referencia:
@@ -279,13 +274,13 @@ export default {
       referencia:
         'Maldonado, T. (2013). Promotoría ambiental. Centro de Educación y Capacitación para el Desarrollo Sustentable [CECADESU].',
       link:
-        'http://189.208.102.74/u094/m-sitios/academicos/teresita/articulos/Promotoria_ambiental.pdf',
+        'http://unidadupn094.upnvirtual.edu.mx/u094/m-sitios/academicos/teresita/articulos/Promotoria_ambiental.pdf',
     },
     {
       referencia:
         'Ministerio de Ambiente y Desarrollo Sostenible. (s. f.). Programa nacional de promotoría ambiental comunitaria. Ministerio de Ambiente y Desarrollo Sostenible.',
       link:
-        'https://www.minambiente.gov.co/index.php/component/content/article?id=380:plantilla-ordenamiento-ambiental-territorial-y-coordinacion-del-sina-con-galeria-7',
+        'https://archivo.minambiente.gov.co/index.php/ordenamiento-ambiental-territorial-y-coordinacion-del-sina/educacion-y-participacion/programa-nacional-de-promotoria-ambiental-comunitaria',
     },
     {
       referencia:
@@ -355,7 +350,7 @@ export default {
     {
       referencia:
         'Secretaría Distrital de Planeación de Bogotá - SDP. (2020). Plan de Ordenamiento Territorial (POT).',
-      link: 'http://www.sdp.gov.co/micrositios/pot/que-es',
+      link: 'https://www.sdp.gov.co/micrositios/pot/que-es',
     },
     {
       referencia:
@@ -399,7 +394,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Gloria Amparo López Escudero',
+          nombre: 'Nelly Parra Guarín',
           cargo: 'Adecuación instruccional - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',

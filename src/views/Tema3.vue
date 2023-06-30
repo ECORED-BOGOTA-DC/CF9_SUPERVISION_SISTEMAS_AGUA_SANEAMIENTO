@@ -11,7 +11,7 @@
       .col-lg-1.col-2(data-aos="fade-right")
         img(src='@/assets/curso/tema3/img01.png')
       .col(data-aos="fade-left")
-        p.mb-0 Interpretar las realidades de una comunidad es un proceso interactivo donde la persona o promotor ambiental se relaciona con las personas objeto de estudio, de una manera colaborativa bidireccional, esto quiere decir que ambas partes se involucran y aprenden en conjunto; para que esto sea posible, se deben llevar a cabo diferentes acciones de manera organizada y planificada, dentro de las cuales se encuentran:
+        p.mb-0 Interpretar las realidades de una comunidad es un proceso interactivo donde la persona o promotor ambiental se relaciona con las personas objeto de estudio, de una manera colaborativa, bidireccional, esto quiere decir, que ambas partes se involucran y aprenden en conjunto; para que esto sea posible, se deben llevar a cabo diferentes acciones de manera organizada y planificada, dentro de las cuales se encuentran:
 
     .row.justify-content-center.mb-5
       .col-lg-3.col-md-6.col-8.mb-lg-0.mb-4(data-aos="fade-right") 
@@ -230,8 +230,8 @@
     .BGR16.px-4.pt-4.mb-5(data-aos="zoom-in")
       LineaTiempoC.color-acento-contenido(text-small)
         .row.justify-content-center(titulo="Pasado")
-          .col-lg-4.mb-lg-0.mb-4
-            ul.lista-ul--color
+          .col-lg-5.mb-lg-0.mb-4
+            ul.lista-ul--color.mt-4
               li(style="margin-bottom: 5px")
                 i.fas.fa-chevron-circle-right(style="color: #FFA031;")
                 .h5.mb-0 ¿Cómo era la comunidad hace 10 - 15 - 20 años?

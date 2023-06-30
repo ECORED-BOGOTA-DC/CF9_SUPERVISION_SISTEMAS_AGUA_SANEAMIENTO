@@ -25,7 +25,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/tema1/img02.jpg')})`}" data-aos="fade-right"
         )
         .bloque-texto-g__texto.p-4(data-aos="fade-left")
-          p.mb-0 La capacidad que tenemos los seres vivos para identificar y recibir información procedente del ambiente y de nosotros mismos (nuestro entorno interior), para transformarnos como resultado del procesamiento o <a style="color: #FFA031; font-weight: 900; font-style: italic;">“digestión”</a> de esa información, y como consecuencia, para incidir luego sobre el territorio del cual formamos parte (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2013, p. 39).
+          p.mb-0 La capacidad que tenemos los seres vivos para identificar y recibir información procedente del ambiente y de nosotros mismos (nuestro entorno interior), para transformarnos como resultado del procesamiento o <a style="color: #FFA031; font-weight: 900;">“digestión”</a> de esa información, y como consecuencia, para incidir luego sobre el territorio del cual formamos parte (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2013, p. 39).
 
     p.mb-5 La educación ambiental tiene una función única y principal: sensible a la población con respecto a la conciencia ambiental necesaria, a continuación, se definen los principios, los objetivos, los lineamientos, los ejes y los niveles para la educación:
 
@@ -160,7 +160,7 @@
                 | Una filosofía sustentada en la estabilidad del ecosistema global. 
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #4DB1F0;")
-                | La buena calidad de la vida y del medio ambiente, donde se desarrolla esta como una preocupación central. 
+                | La buena calidad de la vida y del medio ambiente, donde se desarrolla está como una preocupación central. 
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #4DB1F0;")
                 | La protección, la conservación y el mejoramiento del medio ambiente como una meta. 
@@ -344,7 +344,7 @@
         p Antes de hablar de organizaciones comunitarias, se debe definir el concepto de comunidad; este, como espacio en el que un grupo humano desarrolla su vida y las interacciones que en esta intervienen, por tanto, el concepto de comunidad puede referirse a un sistema de relaciones psicosociales, a un agrupamiento humano, al espacio geográfico o al uso de la lengua según determinados patrones o hábitos culturales (Causse, 2009,). 
         p De acuerdo con la Organización de las Naciones Unidas para la Agricultura y la Alimentación - FAO (2008), en su documento Organización comunitaria, específica que la organización comunitaria se da: 
         .cajon.color-primario.p-4
-          p.mb-0 cuando un grupo de personas se unen para ver los problemas que les afectan en su comunidad y le buscan soluciones. Los problemas pueden ser de carácter social, cultural, económico, político y productivo. La organización es la estructura que se da a un grupo de personas para funcionar de acuerdo a un método y a un objetivo común. Cuando varias personas deciden organizarse, lo hacen porque tienen intereses o problemas comunes que les exigen su unión para poder enfrentarlos (p. 10).
+          p.mb-0 Cuando un grupo de personas se unen para ver los problemas que les afectan en su comunidad y le buscan soluciones. Los problemas pueden ser de carácter social, cultural, económico, político y productivo. La organización es la estructura que se da a un grupo de personas para funcionar de acuerdo a un método y a un objetivo común. Cuando varias personas deciden organizarse, lo hacen porque tienen intereses o problemas comunes que les exigen su unión para poder enfrentarlos (p. 10).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
@@ -405,7 +405,7 @@
     .row.justify-content-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         .BG12.p-4.mb-4
-          p.mx-4.mb-0 La responsabilidad social es un atributo que puede ser dado a nivel comunitario o empresarial. significa que las empresas, además de maximizar el valor para el accionista, deben actuar de forma que beneficien a la sociedad, no sólo a la cuenta de resultados. La responsabilidad social es cada vez más importante para los inversores y los consumidores, que buscan inversiones que no sólo sean rentables, sino que también contribuyan al bienestar de la sociedad y del medio ambiente. Aunque tradicionalmente los críticos han argumentado que la naturaleza básica de las empresas no considera a la sociedad como parte interesada, las generaciones más jóvenes están adoptando la responsabilidad social e impulsando el cambio donde se podrán ver diferentes definiciones y una contextualización más amplia desde la perspectiva empresarial.
+          p.mx-4.mb-0 La responsabilidad social es un atributo que puede ser dado a nivel comunitario o empresarial. Significa que las empresas, además de maximizar el valor para el accionista, deben actuar de forma que beneficien a la sociedad, no solo a la cuenta de resultados. La responsabilidad social es cada vez más importante para los inversores y los consumidores, que buscan inversiones que no solo sean rentables, sino que también contribuyan al bienestar de la sociedad y del medio ambiente. Aunque tradicionalmente los críticos han argumentado que la naturaleza básica de las empresas no considera a la sociedad como parte interesada, las generaciones más jóvenes están adoptando la responsabilidad social e impulsando el cambio donde se podrán ver diferentes definiciones y una contextualización más amplia desde la perspectiva empresarial.
         p.mb-0 De acuerdo con Barón (2014), la Responsabilidad Social Empresarial (RSE) surge en los años 20, pero toma fuerza en las décadas de 1950 y 1960. Se inicia por la idea fundamental que si las empresas usan recursos naturales y sociales, el solo hecho de su uso genera un deber ético, por lo tanto, de alguna manera este uso se devolverá a la sociedad. Las empresas deben ser responsables, por consiguiente, deben ir más allá de la generación de trabajo y riqueza para los empresarios; deben velar por el bienestar de la comunidad donde se encuentran realizando sus actividades.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img29.svg')
@@ -510,7 +510,8 @@
     
     p Teniendo en cuenta los objetivos y necesidades comunes que pueden presentarse en esa comunidad o población, se inicia el proceso de planeación de la acción participativa, en donde se incentive toda la cooperación, participación e integración de los diferentes actores que han sido identificados. Además, incluye revisar cómo será la interrelación con otros actores involucrados, como empresas, actores locales, entidades, comunidades y grupos diferenciales. 
     p De acuerdo con Parra y Vargas (2017), en este punto, el trabajo con comunidades supone el establecimiento de canales de comunicación para favorecer la socialización, el intercambio social, la interacción, el fomento de confianza, solidaridad y colaboración entre los actores intervinientes para el favorecimiento de acercamientos que fomenten inclusión y cohesión social (p. 167). 
-
+    p.mb-5 Dentro de las acciones que van encaminadas al cumplimiento de esta habilidad comunitaria, se encuentran:
+    
     .BG08.p-4.mb-5
       .row.justify-content-around.align-items-center
         .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")

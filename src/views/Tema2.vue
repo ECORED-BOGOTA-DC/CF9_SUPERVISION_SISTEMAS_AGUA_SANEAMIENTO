@@ -432,7 +432,7 @@
       .col-lg-8(data-aos="fade-left")
         p De acuerdo con el programa “Agua y saneamiento para la prosperidad”, el Plan Departamental de Agua (PDA) del Vichada (2017), es un conjunto de estrategias de planeación y coordinación interinstitucional, formuladas y ejecutadas con el objeto de lograr la armonización integral de los recursos y la implementación de esquemas eficientes y sostenibles en la prestación de los servicios públicos domiciliarios de agua potable y saneamiento básico, teniendo en cuenta las características locales, la capacidad institucional de las entidades territoriales, las personas prestadoras de los servicios públicos y la implementación efectiva de esquemas de regionalización.
         .cajon.color.color-primario.p-4
-          p.mb-0 El Decreto 2246 de 2012 establece dentro de los instrumentos de Planeación de los PAP-PDA, el Plan ambiental, el cual define el componente ambiental de los PAP-PDA, y tiene por objeto considerar en la planeación y ejecución de los proyectos de prestación de los servicios públicos de acueducto, alcantarillado y aseo, los requerimientos ambientales asociados a dichos proyectos, para garantizar su sostenibilidad. 
+          p.mb-0 El Decreto 2246 de 2012 establece, dentro de los instrumentos de Planeación de los PAP-PDA, el Plan ambiental, el cual define el componente ambiental de los PAP-PDA, y tiene por objeto considerar en la planeación y ejecución de los proyectos de prestación de los servicios públicos de acueducto, alcantarillado y aseo, los requerimientos ambientales asociados a dichos proyectos, para garantizar su sostenibilidad. 
 
     p El PDA, es un conjunto de estrategias de planeación y coordinación interinstitucional, formuladas y ejecutadas con el objeto de lograr la armonización integral de los recursos y la implementación de esquemas eficientes y sostenibles.
     p.mb-5 A continuación, se presentan los diferentes participantes que intervienen en el PDA:
@@ -632,7 +632,7 @@
         img(src='@/assets/curso/tema2/img50.png')
       .col-lg-8(data-aos="fade-left")
         p Acorde con las directrices del Ministerio de Ambiente, el Ministerio de Educación Nacional y la Política Nacional de Educación Ambiental (PNEA) (2002), los Proyectos Ambientales Escolares (PRAE) son proyectos pedagógicos que promueven el análisis y la comprensión de los problemas y las potencialidades ambientales locales, regionales y nacionales, y generan espacios de participación para implementar soluciones acordes con las dinámicas naturales y socioculturales.
-        p.mb-0 La óptica de su quehacer es la formación desde una concepción de desarrollo sostenible, entendido como el aprovechamiento de los recursos en el presente, sin desmedro de su utilización por las generaciones futuras, con referentes espaciotemporales y sobre la base del respeto a la diversidad y a la autonomía y que contempla, no solo aspectos económicos sino sociales, culturales, políticos, éticos y estéticos, en pro de una gestión sostenible del entorno.
+        p.mb-0 La óptica de su quehacer es la formación desde una concepción de desarrollo sostenible, entendido como el aprovechamiento de los recursos en el presente, sin desmedro de su utilización por las generaciones futuras, con referentes espacios temporales y sobre la base del respeto a la diversidad y a la autonomía y que contempla, no solo aspectos económicos sino sociales, culturales, políticos, éticos y estéticos, en pro de una gestión sostenible del entorno.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
@@ -661,7 +661,7 @@
         img(src='@/assets/curso/tema2/img53.png')
       .col-lg-8(data-aos="fade-left")
         .cajon.color-secundario.p-4.mb-4
-          p.mb-0 De acuerdo con el Observatorio Ambiental de Bogotá, los Proyectos Ambientales Universitarios (PRAU), contemplados en la Política Nacional de Educación Ambiental, en la estrategia “dimensión ambiental en la educación formal”, proponen involucrar la dimensión ambiental en el currículo de la educación superior (programas de formación inicial y de especialización de profesionales, proyecto de investigación en ambiente y en educación ambiental y servicio social obligatorio para profesionales).        p Es así que para la implementación de los Proyectos Ambientales Universitarios (PRAU) se deben involucrar dinámicas ambientales locales y distritales en los procesos de educación impartidos desde los diferentes programas académicos de las universidades.
+          p.mb-0 De acuerdo con el Observatorio Ambiental de Bogotá, los Proyectos Ambientales Universitarios (PRAU), contemplados en la Política Nacional de Educación Ambiental, en la estrategia “dimensión ambiental en la educación formal”, proponen involucrar la dimensión ambiental en el currículo de la educación superior (programas de formación inicial y de especialización de profesionales, proyecto de investigación en ambiente y en educación ambiental y servicio social obligatorio para profesionales).
         p.mb-0 Es así que para la implementación de los Proyectos Ambientales Universitarios (PRAU) se deben involucrar dinámicas ambientales locales y distritales en los procesos de educación impartidos desde los diferentes programas académicos de las universidades.
 
 </template>
