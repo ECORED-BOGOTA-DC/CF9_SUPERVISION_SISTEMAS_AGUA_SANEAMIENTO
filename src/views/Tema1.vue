@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img01.png')
+        img(src='@/assets/curso/tema1/img01.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 En los procesos que involucran activamente a las comunidades, como los de educación ambiental, implica no solo conocer a la población con la cual se va a interactuar, también se requiere escoger una técnica o metodología que sea apropiada para ese territorio y para las necesidades que presenten.
 
@@ -41,19 +41,19 @@
           .col-lg-6.order-lg-1.order-2
             p.mb-0 No solo involucra a todos los participantes del territorio, sino que se integra desde los mismos hábitos culturales que han sido creados de generación en generación, reconociendo la historia de las comunidades y su relación con sus territorios.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img06.png')
+            img(src='@/assets/curso/tema1/img06.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Transversalidad" :icono="require('@/assets/curso/tema1/img04.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
             p.mb-0 Cuando se realiza educación ambiental debe partir de este proceso, pues se deben contemplar todas las ciencias que intervienen dentro de la conducta y hábitos de un ser humano, la parte biológica, económica, social, cultural, educativa, el género y las condiciones especiales.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img07.png')
+            img(src='@/assets/curso/tema1/img07.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Fractalidad" :icono="require('@/assets/curso/tema1/img05.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
             p.mb-0 Es la capacidad de entender de qué manera #[strong “el todo”] se refleja cualitativamente en cada una de las partes que lo conforman (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2013, p. 67). En otras palabras, este principio comprende que las problemáticas que se presentan en un barrio, en una ciudad o en una huerta escolar, pueden ser el reflejo de una problemática mucho más general, por lo cual, cada particularidad también pertenece a un aspecto global, y los pequeños cambios podrían generar cambios a nivel macro.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img08.png')
+            img(src='@/assets/curso/tema1/img08.png' alt="Imagen decorativa")
 
     .row.justify-content-start.mb-4
       .col-auto.BGRS01.px-5.py-3(data-aos="fade-right")
@@ -63,7 +63,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img09.svg')
+        img(src='@/assets/curso/tema1/img09.svg' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         ol.lista-ol--cuadro.mb-0
           li 
@@ -98,7 +98,7 @@
           .tarjeta.BGR02A.p-4
             .row.justify-content-center.align-items-center
               .col-xl-2.col-lg-3.col-2.ps-3.pe-1.py-1
-                img(src='@/assets/curso/tema1/img10.png')
+                img(src='@/assets/curso/tema1/img10.png' alt="Imagen decorativa")
               .col
                 p.mb-0 El aprender sobre el ambiente.
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="flip-up")  
@@ -109,7 +109,7 @@
           .tarjeta.BGR02B.p-4
             .row.justify-content-center.align-items-center
               .col-xl-2.col-lg-3.col-2.ps-3.pe-1.py-1
-                img(src='@/assets/curso/tema1/img11.png')
+                img(src='@/assets/curso/tema1/img11.png' alt="Imagen decorativa")
               .col
                 p.mb-0 Aprender en el ambiente.
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-left")   
@@ -120,7 +120,7 @@
           .tarjeta.BGR02C.p-4
             .row.justify-content-center.align-items-center
               .col-xl-2.col-lg-3.col-2.ps-3.pe-1.py-1
-                img(src='@/assets/curso/tema1/img12.png')
+                img(src='@/assets/curso/tema1/img12.png' alt="Imagen decorativa")
               .col
                 p.mb-0 Aprender para el ambiente.
             
@@ -136,20 +136,20 @@
       .col-lg-6.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta--boton.color-primario.BGR06.hg-01.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema1/img13.png')
+            img(src='@/assets/curso/tema1/img13.png' alt="Imagen decorativa")
           .h4 Equidad
           p.mb-0 Se divide en intra e intercultural, en la que se hace relación a la libertad cultural, la diversidad cultural, religiosa y étnica, la cooperación, la identidad cultural, el sentido de pertenencia, el valor personal en un contexto social y la educación intercultural.
       .col-lg-6.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta--boton.color-secundario.BGR07.hg-01.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema1/img14.png')
+            img(src='@/assets/curso/tema1/img14.png' alt="Imagen decorativa")
           .h4 La participación en educación
           p.mb-0 Se entiende como un acto democrático y un proceso de autoaprendizaje individual y colectivo que transcurre en el propio proceso de toma de decisiones y que implica un compromiso activo.
     
     <br><br>   
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-3.col-6.px-0.pb-4.img-01(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img15.svg')
+        img(src='@/assets/curso/tema1/img15.svg' alt="Imagen decorativa")
       .col-12.BG08.p-4(data-aos="fade-left")
         .row.justify-content-end
           .col-lg-8
@@ -190,25 +190,25 @@
             .h4 Fundamentos ecológicos
             p.mb-0 El propósito de este nivel de instrucción es dar al docente/estudiante informaciones sobre los sistemas terrestres de soporte vital, incluye la instrucción sobre ecología básica, ciencia de los sistemas de la Tierra, geología, meteorología, geografía física, botánica, biología, química, física, etc.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img16.png')
+            img(src='@/assets/curso/tema1/img16.png' alt="Imagen decorativa")
         .row.justify-content-center(titulo="Segundo Nivel")
           .col-lg-6.order-lg-1.order-2
             .h4 Concienciación conceptual
             p.mb-0 De cómo las acciones individuales y de grupo pueden influenciar la relación entre calidad de vida humana y la condición del ambiente.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img17.png')
+            img(src='@/assets/curso/tema1/img17.png' alt="Imagen decorativa")
         .row.justify-content-center(titulo="Tercer Nivel")
           .col-lg-6.order-lg-1.order-2
             .h4 La investigación y evaluación de problemas
             p.mb-0 Esto implica aprender a investigar y evaluar problemas ambientales. Debido a que hay demasiados casos de personas que han interpretado de forma incorrecta o sin exactitud asuntos ambientales, muchas personas se encuentran confundidas acerca de cuál es el comportamiento más responsable ambientalmente.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img18.png')
+            img(src='@/assets/curso/tema1/img18.png' alt="Imagen decorativa")
         .row.justify-content-center(titulo="Cuarto Nivel")
           .col-lg-6.order-lg-1.order-2
             .h4 La capacidad de acción
             p.mb-0 Este componente enfatiza en las habilidades necesarias para participar productivamente en la solución de problemas ambientales presentes y la prevención de problemas ambientales futuros.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img19.png')
+            img(src='@/assets/curso/tema1/img19.png' alt="Imagen decorativa")
 
     .row.justify-content-start.mb-4
       .col-auto.BGRS01.px-5.py-3(data-aos="fade-right")
@@ -216,7 +216,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img20.png')
+        img(src='@/assets/curso/tema1/img20.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Esta metodología afirma que los conocimientos no se transmiten, sino que se construyen. Por lo tanto, las personas deben investigar sus propias representaciones, las de su medio social, familiar y las de su entorno natural. 
         p Este método tiene su fundamentación teórica en los métodos educativos de Paulo Freire. Se propone romper la separación sujeto-objeto, investigador-investigado, salvar la distancia entre teoría e investigación y evitar la fractura entre teoría y práctica: no hay que conformarse y explicar los problemas sociales, sino que también hay que transformarlos a través de la acción investigativa.
@@ -235,7 +235,7 @@
           .col-lg-8
             p.ms-4.mb-0 Un instrumento estratégico para el desarrollo de una comunidad, que está orientado a provocar un cambio de actitud y a vencer las resistencias de la población hacia ese cambio. La base principal de las actividades de promoción es la participación organizada de la población, a partir de su cultura y sus condiciones socioeconómicas. La población es el sujeto y el protagonista de su propio crecimiento. La base de la promotoría es el trabajo organizado en torno a un objetivo común, apoyado en un proceso educativo que tiende al cambio de actitudes del individuo, la familia y el grupo social. Está siempre vinculada a un programa que persigue metas y objetivos establecidos, de acuerdo a las necesidades del contexto físico, ecológico, social, político, económico, histórico y cultural de la comunidad y la idiosincrasia de los individuos (p. 4).
       .col-lg-3.col-6.pb-2.img-02(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img21.svg')
+        img(src='@/assets/curso/tema1/img21.svg' alt="Imagen decorativa")
     
     p.mb-5 En este tema surgen una serie de preguntas, las cuales responderemos a continuación:
     
@@ -245,7 +245,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img22.png')
+        img(src='@/assets/curso/tema1/img22.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 De acuerdo con el Ministerio de Ambiente y Desarrollo Sostenible (s. f.), el promotor ambiental es un líder con gran sensibilidad y responsabilidad social frente al desarrollo sostenible de su localidad y su región. A continuación, podrán conocer los principales aspectos en la gestión socio ambiental de un promotor.
     
@@ -259,7 +259,7 @@
       
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img23.svg')
+        img(src='@/assets/curso/tema1/img23.svg' alt="Imagen decorativa")
       .col-lg-7(data-aos="fade-left")
         ol.lista-ol--cuadro.mb-0
           li 
@@ -286,7 +286,7 @@
     p Para la Corporación Autónoma del Tolima - Cortolima (2009), algunas de las funciones de un promotor ambiental son:
 
     figure(data-aos="zoom-in")
-      img(src='@/assets/curso/tema1/img24.svg')
+      img(src='@/assets/curso/tema1/img24.svg' alt="Imagen decorativa")
     .row.justify-content-center.mb-5
       .col-lg-4.col-8(data-aos="flip-up")
         TarjetaAudio.color-acento-contenido.img-03(
@@ -325,7 +325,7 @@
             i.fas.fa-check-circle(style="color: #4DB1F0;")
             | Manejo del recurso hídrico.
       .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img25.png')
+        img(src='@/assets/curso/tema1/img25.png' alt="Imagen decorativa")
 
     separador
     #t_1_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -339,7 +339,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img26.png')
+        img(src='@/assets/curso/tema1/img26.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Antes de hablar de organizaciones comunitarias, se debe definir el concepto de comunidad; este, como espacio en el que un grupo humano desarrolla su vida y las interacciones que en esta intervienen, por tanto, el concepto de comunidad puede referirse a un sistema de relaciones psicosociales, a un agrupamiento humano, al espacio geográfico o al uso de la lengua según determinados patrones o hábitos culturales (Causse, 2009,). 
         p De acuerdo con la Organización de las Naciones Unidas para la Agricultura y la Alimentación - FAO (2008), en su documento Organización comunitaria, específica que la organización comunitaria se da: 
@@ -370,7 +370,7 @@
       .col-lg-6(data-aos="fade-left")
         .row.justify-content-center.align-items-end
           .col-lg-3.col-6.img-04.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img28.svg')
+            img(src='@/assets/curso/tema1/img28.svg' alt="Imagen decorativa")
           .col-12.BGRS11.p-4
             .row.justify-content-end
               .col-lg-6.col-10
@@ -408,7 +408,7 @@
           p.mx-4.mb-0 La responsabilidad social es un atributo que puede ser dado a nivel comunitario o empresarial. Significa que las empresas, además de maximizar el valor para el accionista, deben actuar de forma que beneficien a la sociedad, no solo a la cuenta de resultados. La responsabilidad social es cada vez más importante para los inversores y los consumidores, que buscan inversiones que no solo sean rentables, sino que también contribuyan al bienestar de la sociedad y del medio ambiente. Aunque tradicionalmente los críticos han argumentado que la naturaleza básica de las empresas no considera a la sociedad como parte interesada, las generaciones más jóvenes están adoptando la responsabilidad social e impulsando el cambio donde se podrán ver diferentes definiciones y una contextualización más amplia desde la perspectiva empresarial.
         p.mb-0 De acuerdo con Barón (2014), la Responsabilidad Social Empresarial (RSE) surge en los años 20, pero toma fuerza en las décadas de 1950 y 1960. Se inicia por la idea fundamental que si las empresas usan recursos naturales y sociales, el solo hecho de su uso genera un deber ético, por lo tanto, de alguna manera este uso se devolverá a la sociedad. Las empresas deben ser responsables, por consiguiente, deben ir más allá de la generación de trabajo y riqueza para los empresarios; deben velar por el bienestar de la comunidad donde se encuentran realizando sus actividades.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img29.svg')
+        img(src='@/assets/curso/tema1/img29.svg' alt="Imagen decorativa")
 
     p Otra definición se puede encontrar en la superintendencia de industria y comercio (2018), en su documento ABD de la Responsabilidad Social (RS), el cual indica que la RS busca el actuar desde una perspectiva consciente de la actividad económica y de los efectos positivos y negativos que se causa tanto interna como externamente en el entorno. El desarrollo de la RS incluye la planeación de estrategias que apuntan al crecimiento de una empresa/pyme/organización, pero también al desarrollo de iniciativas con el ánimo de contribuir al desarrollo sostenible.
     p Para facilitar el desarrollo de las estrategias de responsabilidad social, se deben contemplar las categorías en las cuales estas se desarrollan (Superintendencia de Industria y Comercio, 2018).
@@ -417,19 +417,19 @@
       .col-lg-4.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta--boton.color-secundario.BGR07.hg-02.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema1/img30.png')
+            img(src='@/assets/curso/tema1/img30.png' alt="Imagen decorativa")
           .h4 Desarrollo económico
           p.mb-0 Desde la perspectiva de Responsabilidad Social, se identifica en cómo está distribuido el capital en sus grupos de interés. Por ejemplo, nómina, pagos tributarios, gastos en infraestructura y comunidad, e inversiones en tecnologías o mejoras que beneficien el medio ambiente (Superintendencia de Industria y Comercio).
       .col-lg-4.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta--boton.color-primario.BGR06.hg-02.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema1/img31.png')
+            img(src='@/assets/curso/tema1/img31.png' alt="Imagen decorativa")
           .h4 Desarrollo social
           p.mb-0 Es el desarrollo del capital humano y social. Implica evolución o cambio positivo por medio de actividades que tienen como fin contribuir al mejoramiento de la vida (Superintendencia de Industria y Comercio).
       .col-lg-4.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta--boton.color-secundario.BGR07.hg-02.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema1/img32.png')
+            img(src='@/assets/curso/tema1/img32.png' alt="Imagen decorativa")
           .h4 Desarrollo ambiental
           p.mb-0 Es la forma en que su organización o actividad intenta prevenir, mitigar y compensar el impacto directo o indirecto que su actividad genera en el medio ambiente.
       
@@ -455,7 +455,7 @@
           .tarjeta.BGR02A.p-4
             .row.justify-content-center.align-items-center
               .col-xl-2.col-lg-3.col-2.ps-3.pe-1.py-1
-                img(src='@/assets/curso/tema1/img33.png')
+                img(src='@/assets/curso/tema1/img33.png' alt="Imagen decorativa")
               .col
                 p.mb-0 Procesos históricos.
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="flip-up")  
@@ -466,7 +466,7 @@
           .tarjeta.BGR02B.p-4
             .row.justify-content-center.align-items-center
               .col-xl-2.col-lg-3.col-2.ps-3.pe-1.py-1
-                img(src='@/assets/curso/tema1/img34.png')
+                img(src='@/assets/curso/tema1/img34.png' alt="Imagen decorativa")
               .col
                 p.mb-0 Actores.
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-left")   
@@ -477,7 +477,7 @@
           .tarjeta.BGR02C.p-4
             .row.justify-content-center.align-items-center
               .col-xl-2.col-lg-3.col-2.ps-3.pe-1.py-1
-                img(src='@/assets/curso/tema1/img35.png')
+                img(src='@/assets/curso/tema1/img35.png' alt="Imagen decorativa")
               .col
                 p.mb-0 La realidad del escenario local.
     
@@ -487,7 +487,7 @@
           p.mb-0 Este análisis, con base en Parra y Vargas (2017), se realiza para asegurar que no se repliquen experiencias que ya se hayan probado en el pasado y que las acciones a adelantar no desconozcan las realidades de los actores involucrados ni las características y particularidades del entorno. Se precisa, entonces, #[strong #[em “reconocer que los espacios locales están inmersos dentro de realidades más amplias que tienen incidencia en su interior”]] (p. 166).
         p.mb-0 Para definir la palabra territorio, que es muy usada en promotoría y educación ambiental, se puede inferir que existen tres tipologías de territorio (Boisier, citado en Parra y Vargas, 2017, p. 166), como se observa a continuación: 
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left") 
-        img(src='@/assets/curso/tema1/img36.png')
+        img(src='@/assets/curso/tema1/img36.png' alt="Imagen decorativa")
 
     TabsB.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-4.py-md-5(titulo="Territorio natural" :icono="require('@/assets/curso/tema1/img37.png')")
@@ -496,13 +496,13 @@
             p Implica un recorte que reconoce la existencia de actividades de mayor complejidad, por ejemplo, sistemas de asentamientos humanos y sus infraestructuras, pero que fundamentalmente refiere a la existencia de una comunidad que se reconoce y que tiene como autorreferencia primaria el propio territorio y que está regulada mediante un dispositivo político-administrativo que define las competencias de ese territorio, su ubicación y el papel que tiene en el ordenamiento jurídico nacional, es decir, un territorio organizado tiene una estructura de administración y, en algunos casos, también de Gobierno. Estos territorios pasan a ser sujetos de intervenciones promotoras del desarrollo.
             p.mb-0 Se refiere a uno en el cual el hombre ya ha instalado sistemas, por ejemplo, de transporte, infraestructuras y actividades productivas extractivas.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img39.png')
+            img(src='@/assets/curso/tema1/img39.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Territorio organizado" :icono="require('@/assets/curso/tema1/img38.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
             p.mb-0 Implica un recorte que reconoce la existencia de actividades de mayor complejidad, por ejemplo, sistemas de asentamientos humanos y sus infraestructuras, pero que fundamentalmente refiere a la existencia de una comunidad que se reconoce y que tiene como autorreferencia primaria el propio territorio y que está regulada mediante un dispositivo político-administrativo que define las competencias de ese territorio, su ubicación y el papel que tiene en el ordenamiento jurídico nacional, es decir, un territorio organizado tiene una estructura de administración y, en algunos casos, también de Gobierno. Estos territorios pasan a ser sujetos de intervenciones promotoras del desarrollo.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img40.png')
+            img(src='@/assets/curso/tema1/img40.png' alt="Imagen decorativa")
 
     .row.justify-content-start.mb-4
       .col-auto.BGRS01.px-5.py-3(data-aos="fade-right")
@@ -515,7 +515,7 @@
     .BG08.p-4.mb-5
       .row.justify-content-around.align-items-center
         .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema1/img41.svg')
+          img(src='@/assets/curso/tema1/img41.svg' alt="Imagen decorativa")
         .col-lg-8(data-aos="fade-left")
           p #[strong Diseño de planes de comunicación:] su objetivo es mantener canales de comunicación con los actores involucrados.
           p #[strong Capacitación en mecanismos de participación, derechos y ciudadanía:] el empoderamiento de las personas que lideren esa agrupación o población es elemental para que sean ejes de articulación entre las partes interesadas y favorezca el diagnóstico.
@@ -527,7 +527,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img42.png')
+        img(src='@/assets/curso/tema1/img42.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 La búsqueda de soluciones debe partir de la identificación de redes de cooperación existentes en esa comunidad, con el fin de llegar a la generación de capacidades de transformación de las condiciones socioeconómicas para reaccionar ante los desafíos externos y para promover aprendizaje social y la introducción de formas específicas de regulación social a nivel social y comunitario.
 
@@ -535,7 +535,7 @@
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         p.mb-0 De acuerdo con Parra y Vargas (2017), la experiencia del trabajo con comunidades para el desarrollo local estará fundamentada en la identificación y promoción de escenarios para el crecimiento de la capacidad productiva y organizativa local, a través de la conformación de redes de cooperación y el fortalecimiento y acompañamiento de las redes ya existentes. Por otra parte, deben ponerse en marcha acciones de gestión con autoridades para la apertura de opciones para el acceso al crédito, facilitación de servicios tecnológicos u otros que propendan por la solución de problemas comunes a los emprendedores locales, integrando activamente a la empresa privada (p.170).
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img43.png')
+        img(src='@/assets/curso/tema1/img43.png' alt="Imagen decorativa")
       
     .row.justify-content-start.mb-4
       .col-auto.BGRS01.px-5.py-3(data-aos="fade-right")
@@ -545,7 +545,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img44.png')
+        img(src='@/assets/curso/tema1/img44.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         .cajon.color-acento-contenido.p-4
           p.mx-4.mb-0 Desde la particularidad e integración de los actores, con miras al logro de los objetivos compartidos y mediante la disposición de recursos en el corto, mediano y largo plazo, el trabajo con comunidades debe partir de una metodología de planeación estratégica que permita la construcción de acciones colectivas frente a metas de largo plazo, sin perder de vista el involucramiento de las comunidades y la incorporación de sus opiniones en el análisis de la realidad.

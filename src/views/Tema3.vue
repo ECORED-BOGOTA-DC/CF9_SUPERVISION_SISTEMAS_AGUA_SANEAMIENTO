@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img01.png')
+        img(src='@/assets/curso/tema3/img01.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 Interpretar las realidades de una comunidad es un proceso interactivo donde la persona o promotor ambiental se relaciona con las personas objeto de estudio, de una manera colaborativa, bidireccional, esto quiere decir, que ambas partes se involucran y aprenden en conjunto; para que esto sea posible, se deben llevar a cabo diferentes acciones de manera organizada y planificada, dentro de las cuales se encuentran:
 
@@ -17,25 +17,25 @@
       .col-lg-3.col-md-6.col-8.mb-lg-0.mb-4(data-aos="fade-right") 
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img(style="min-width: 25% !important")
-            img(src='@/assets/curso/tema3/img02.png')
+            img(src='@/assets/curso/tema3/img02.png' alt="Imagen decorativa")
           .tarjeta.BGR02A.p-2
             p.ms-4.mb-0 Recolección de la información.
       .col-lg-3.col-md-6.col-8.mb-lg-0.mb-4(data-aos="flip-up") 
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img(style="min-width: 25% !important")
-            img(src='@/assets/curso/tema3/img03.png')
+            img(src='@/assets/curso/tema3/img03.png' alt="Imagen decorativa")
           .tarjeta.BGR02A.p-2
             p.ms-4.mb-0 Metodologías participativas.
       .col-lg-3.col-md-6.col-8.mb-lg-0.mb-4(data-aos="flip-up") 
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img(style="min-width: 25% !important")
-            img(src='@/assets/curso/tema3/img04.png')
+            img(src='@/assets/curso/tema3/img04.png' alt="Imagen decorativa")
           .tarjeta.BGR02A.p-2
             p.ms-4.mb-0 Planes de acción ambiental.
       .col-lg-3.col-md-6.col-8.mb-lg-0.mb-4(data-aos="fade-left") 
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img(style="min-width: 25% !important")
-            img(src='@/assets/curso/tema3/img05.png')
+            img(src='@/assets/curso/tema3/img05.png' alt="Imagen decorativa")
           .tarjeta.BGR02A.p-2
             p.ms-4.mb-0 Agendas interministeriales.
 
@@ -55,7 +55,7 @@
             p Medio preferido por los investigadores sociales; es una técnica de fácil aplicación, que exige una tabulación muy sencilla; El observador fija su atención en una finalidad de la que tiene clara conciencia, la cual le proporciona la justa postura frente al objeto de la observación. El proceso de observación exige tener un plan o por lo menos algunas directrices determinadas con relación a lo que se quiere o espera observar. 
             p.mb-0 Uno de los problemas más complejos y más difíciles de resolver es, sin duda, el registro de las observaciones, frente al cual existen posiciones muy encontradas. Se han sugerido las técnicas y los métodos más dispares para alcanzar un “óptimo registro" de las observaciones, los cuales van desde rígidos protocolos utilizados en los experimentos y en las observaciones clínicas, hasta las modalidades más libres y asistemáticas (p. 239).
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img10.svg')
+            img(src='@/assets/curso/tema3/img10.svg' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Entrevista" :icono="require('@/assets/curso/tema3/img07.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
@@ -73,7 +73,7 @@
                 i.fas.fa-chevron-circle-right(style="color: #3076B6;")
                 | Entrevistas no dirigidas.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img11.svg')
+            img(src='@/assets/curso/tema3/img11.svg' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Encuestas" :icono="require('@/assets/curso/tema3/img08.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
@@ -82,7 +82,7 @@
             p Existen encuestas cerradas o restringidas, son encuestas que incitan respuestas breves y específicas, lo que permite la tabulación y posterior evaluación de las respuestas formuladas.
             p.mb-0 Se encuentran encuestas de diferente tipología, como las encuestas descriptivas, encuestas explicativas y sondeo y encuestas de opinión pública.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img12.svg')
+            img(src='@/assets/curso/tema3/img12.svg' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Etapas y desarrollo de encuestas" :icono="require('@/assets/curso/tema3/img09.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
@@ -129,7 +129,7 @@
                 i.fas.fa-chevron-circle-right(style="color: #FFA031;")
                 | Redacción del informe.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img13.svg')
+            img(src='@/assets/curso/tema3/img13.svg' alt="Imagen decorativa")
 
 
     separador
@@ -138,7 +138,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img14.png')
+        img(src='@/assets/curso/tema3/img14.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Para iniciar se debe tener claro que la participación comunitaria debe ser un proceso activo y voluntario; si se piensa en este tema como un formalismo obligatorio, se pierde el sentido y la importancia de estas acciones.
         p La participación debe ser una construcción colectiva, es decir, no es solo consultar con personas su concepto referente a un tema, implica a su vez, la planificación de propuestas, gestión de recursos, ejecución de actividades, evaluación de proyectos e interpretación.
@@ -166,7 +166,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2.col-4.px-4.img-05(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img15.svg')
+        img(src='@/assets/curso/tema3/img15.svg' alt="Imagen decorativa")
       .col-12.BG11.p-4(data-aos="fade-left")
         .row.justify-content-end
           .col-lg-8
@@ -220,7 +220,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img16.png')
+        img(src='@/assets/curso/tema3/img16.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p.mb-0 Este es un proceso que se realiza como una proyección de los mapas comunitarios, teniendo en cuenta que estos buscan la visibilización de las problemáticas del territorio y la relación de los actores involucrados. En los mapas de sueños se busca que se contemple la proyección o deseos de cómo se debe ver el territorio “la meta”; usualmente los sueños proyectados se encuentran relacionados a servicios como: espacios recreativos, centros de salud, escuelas, entre otros.
 
@@ -243,7 +243,7 @@
                 .h5.mb-0 ¿Qué fortalezas tenía?
             p.mb-0 Para cada uno de los problemas y fortalezas se deberán trazar flechas que ilustren, en años, si estos problemas y fortalezas se han mantenido y hasta cuándo lo han hecho; y si han desaparecido, por qué.
           .col-lg-6.col-10
-            img(src='@/assets/curso/tema3/img17.svg')
+            img(src='@/assets/curso/tema3/img17.svg' alt="Imagen decorativa")
         .row.justify-content-center(titulo="Presente")
           .col-lg-4.mb-lg-0.mb-4
             ul.lista-ul--color
@@ -258,7 +258,7 @@
                 .h5.mb-0 ¿Qué fortalezas tenemos?
             p.mb-0 Para ello se pueden utilizar las matrices FODA que hablan de Fortalezas, Oportunidades, Debilidades y Amenazas. También es importante que los problemas y fortalezas identificadas sean graficados en su inicio y evolución.
           .col-lg-6.col-10
-            img(src='@/assets/curso/tema3/img17.svg')
+            img(src='@/assets/curso/tema3/img17.svg' alt="Imagen decorativa")
         .row.justify-content-center(titulo="Futuro")
           .col-lg-4.mb-lg-0.mb-4
             ul.lista-ul--color
@@ -270,7 +270,7 @@
                 .h5.mb-0 ¿En qué se sueña? ¿Qué cosas se pueden cambiar? ¿Qué se necesita para ello?
             p.mb-0 Aquí se pueden utilizar los insumos de los mapas de sueños y de las libretas de registro comunitario. Con esta estructura base, se sugiere sacar líneas hacia abajo y hacia arriba, precisando en meses y semana las acciones que permitirán llegar a los sueños proyectados.
           .col-lg-6.col-10
-            img(src='@/assets/curso/tema3/img17.svg')
+            img(src='@/assets/curso/tema3/img17.svg' alt="Imagen decorativa")
 
     p.mb-5 Es importante que las acciones respondan a los compromisos establecidos. Estas acciones podrán sistematizarse luego en una matriz como la anterior precisando responsables para cada actividad. En caso de considerar la planificación semanal o mensual demasiado específica, se pueden realizar ejercicios de campo de fuerzas o de estrategias para el cambio centrados en la acción. Es decir, se podrían graficar grandes estrategias o acciones (p. 20).
     .h4.texto-primario(data-aos="fade-right") Guías etnográficas
@@ -281,7 +281,7 @@
       .col-lg-4.col-md-8.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema3/img18.svg' style='width:400px')
+          img(src='@/assets/curso/tema3/img18.svg' alt="Imagen decorativa" style='width:400px')
           .tarjetas-up_card.BGR08.p-xl-4.p-lg-3.p-4
             .title.d-flex.align-items-center.mb-xl-5.mb-lg-4.mb-md-5.mb-4
               span
@@ -292,7 +292,7 @@
       .col-lg-4.col-md-8.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema3/img19.svg' style='width:400px')
+          img(src='@/assets/curso/tema3/img19.svg' alt="Imagen decorativa" style='width:400px')
           .tarjetas-up_card.BGR08.p-xl-4.p-lg-3.p-4
             .title.d-flex.align-items-center.mb-xl-5.mb-lg-4.mb-md-5.mb-4
               span
@@ -303,7 +303,7 @@
       .col-lg-4.col-md-8.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema3/img20.svg' style='width:400px')
+          img(src='@/assets/curso/tema3/img20.svg' alt="Imagen decorativa" style='width:400px')
           .tarjetas-up_card.BGR08.p-xl-4.p-lg-3.p-4
             .title.d-flex.align-items-center.mb-xl-5.mb-lg-4.mb-md-5.mb-4
               span
@@ -318,7 +318,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img21.png')
+        img(src='@/assets/curso/tema3/img21.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 En estas metodologías sí intervienen las emociones y sentimientos, su objetivo es desnaturalizar los problemas, es decir, identificar problemáticas que las personas ya consideran normales y cotidianas, luego se realizan procesos de análisis, de origen, de hábitos y conductas que se dan de forma automática. Estos son:
 
@@ -333,7 +333,7 @@
               span Ver Arbol
               .indicador--click(v-if="mostrarIndicador")
           .col-lg-5.col-10
-            img(src='@/assets/curso/tema3/img22.png')
+            img(src='@/assets/curso/tema3/img22.png' alt="Imagen decorativa")
         .row.justify-content-center
           .col-lg-5
             .h4 Matriz FODA (Fortalezas, Oportunidad, Debilidades y Amenazas)
@@ -342,7 +342,7 @@
               span Ver FODA
               .indicador--click(v-if="mostrarIndicador")
           .col-lg-5.col-10
-            img(src='@/assets/curso/tema3/img23.png')
+            img(src='@/assets/curso/tema3/img23.png' alt="Imagen decorativa")
         .row.justify-content-center
           .col-lg-5
             .h4 Diagrama espina de pescado
@@ -351,28 +351,28 @@
               span Ver Diagrama
               .indicador--click(v-if="mostrarIndicador")
           .col-lg-5.col-10
-            img(src='@/assets/curso/tema3/img24.png')
+            img(src='@/assets/curso/tema3/img24.png' alt="Imagen decorativa")
     
     ModalA(:abrir-modal.sync="modal1")
       .row.justify-content-center
         .col-11
           .h4 Árbol de sueños, miedos y compromisos
           figure
-            img(src='@/assets/curso/tema3/img25.jpg')
+            img(src='@/assets/curso/tema3/img25.jpg' alt="Imagen que representa el árbol de sueños, miedos y compromisos, con todas sus partes y procesos")
             figcaption Nota. <a style="font-weigh: 400">Adaptada de Soliz y Maldonado (2012).</a>
 
     ModalA(:abrir-modal.sync="modal2")
       .row.justify-content-center
         .col-11
           .h4 Matriz FODA (Fortalezas, Oportunidad, Debilidades y Amenazas)
-          img(src='@/assets/curso/tema3/img26.jpg')
+          img(src='@/assets/curso/tema3/img26.jpg' alt="Esquema de la matriz FODA, el cual representa las Fortalezas, Oportunidades, Debilidades y Amenazas")
 
     ModalA(:abrir-modal.sync="modal3")
       .row.justify-content-center
         .col-11
           .h4 Diagrama espina de pescado
           figure
-            img(src='@/assets/curso/tema3/img27.jpg')
+            img(src='@/assets/curso/tema3/img27.jpg' alt="Imagen que representa el Diagrama de espina de pescado, el cual a través de un ejemplo relacionado con la salud explica su funcionamiento")
             figcaption Nota. <a style="font-weigh: 400">Adaptada de Soliz y Maldonado (2012).</a>
 
     .row.justify-content-start.mb-4
@@ -385,13 +385,13 @@
       .col-lg-6.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta--boton.color-primario.BGR08.hg-04.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema3/img28.png')
+            img(src='@/assets/curso/tema3/img28.png' alt="Imagen decorativa")
           .h4 Sociogramas
           p.mb-0 Con base en Soliz y Maldonado (2012), el sociograma es una técnica que permite comprender la estructura de grupos sociales, las afinidades y asperezas, las relaciones cercanas y las problemáticas. Es una herramienta de diagnóstico orientadora que puede ser útil para trabajar divisiones y dificultades en la estructura de grupos (p. 36).
       .col-lg-6.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta--boton.color-primario.BGR08.hg-04.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema3/img29.png')
+            img(src='@/assets/curso/tema3/img29.png' alt="Imagen decorativa")
           .h4 Juego de roles - sociodrama
           p Es una estrategia metodológica utilizada para crear empatía.
           p.mb-0 Cuando deseamos que alguien comprenda lo más íntimamente posible una conducta o situación, se le pide que “se ponga en el lugar” de quien la vivió en la realidad.
@@ -438,11 +438,11 @@
         .cajon.color-primario.p-4
           p.mb-0 Una herramienta de gestión del Desarrollo Sostenible Local, a través de la cual se identifica y presenta información sobre la situación del medio ambiente y los recursos naturales de una zona, sobre las interacciones positivas y negativas de los diferentes actores y sectores locales con los principales medios (Atmósfera, Biodiversidad, Bosques, Medio Urbano, Agua, Suelo, Residuos). Esta información, junto con las características socioeconómicas y organizativas del Gobierno local, constituye la base del análisis colectivo para fijar prioridades y tomar decisiones en pro del desarrollo local sostenible (p. 13).
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img31.png')
+        img(src='@/assets/curso/tema3/img31.png' alt="Imagen decorativa")
 
     .row.justify-content-end.align-items-center.mb-5
       .col-lg-3.col-6.px-4.img-05(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img32.svg')
+        img(src='@/assets/curso/tema3/img32.svg' alt="Imagen decorativa")
       .col-lg-8.BGR11.p-4(data-aos="fade-left")
         .row.justify-content-end
           .col-lg-9
@@ -470,22 +470,22 @@
         .col-lg-7.order-lg-1.order-2
           p.mb-0 El equipo de trabajo puede ser interno, es decir de la misma comunidad; puede ser externo, cuando implica la contratación de personal totalmente ajeno a ese territorio, o mixto que es la integración de los dos anteriores.
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img33.png')
+          img(src='@/assets/curso/tema3/img33.png' alt="Imagen decorativa")
       .row.justify-content-center(titulo="Fase 2 - Elaboración de un plan de trabajo")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Establecer claramente las etapas de trabajo, actividades, responsabilidades, tiempo, medios necesarios y presupuestos.
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img34.png')
+          img(src='@/assets/curso/tema3/img34.png' alt="Imagen decorativa")
       .row.justify-content-center(titulo="Fase 3 - Realización de la metodología")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Un DAP siempre estará articulado por dos etapas: la primera, la metodología, que contiene la identificación de la información y la documentación respectiva (incluye actores, fuentes de información primaria y secundaria), y la segunda, el ordenamiento, sistematización y análisis de la información obtenida (Problemas, causas - efecto, propuestas).
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img35.png')
+          img(src='@/assets/curso/tema3/img35.png' alt="Imagen decorativa")
       .row.justify-content-center(titulo="Fase 4 - Información y documentación")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Revisión que la información y documentación cuente con las siguientes características: accesibilidad, disponibilidad, capacidad de actualización y fiabilidad de las fuentes.
         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img36.png')
+          img(src='@/assets/curso/tema3/img36.png' alt="Imagen decorativa")
     
     separador
     #t_3_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -495,7 +495,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img37.png')
+        img(src='@/assets/curso/tema3/img37.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         .cajon.color-primario.p-4
           p.mb-0 El Plan de Acción Ambiental (PAA) es, en sí, una herramienta de gestión del Desarrollo Sostenible Local a través de la cual se presenta en forma ordenada la información y conocimiento sobre la situación del medio ambiente y los recursos naturales de una zona y su repercusión en la calidad de vida y posibilidades de desarrollo de sus habitantes.
@@ -505,7 +505,7 @@
     .BG11.mb-4
       .row.justify-content-center.mb-5
         .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema3/img38.svg')
+          img(src='@/assets/curso/tema3/img38.svg' alt="Imagen decorativa")
         .col-lg-1.d-lg-flex.d-none
         .col-lg-8.p-4(data-aos="fade-left")
           p El objetivo principal del Plan de Acción Ambiental es mejorar las condiciones de desarrollo y la calidad de vida de los seres humanos, en armonía con su entorno. Cuando se elabora un Plan de Acción Ambiental (PAA) también se tienen en cuenta, entre otros objetivos, que:
@@ -525,7 +525,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img39.png')
+        img(src='@/assets/curso/tema3/img39.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 El Plan de Acción Ambiental (PAA) es, en sí, una herramienta de gestión del Desarrollo Sostenible Local a través de la cual se presenta en forma ordenada la información y conocimiento sobre la situación del medio ambiente y los recursos naturales de una zona y su repercusión en la calidad de vida y posibilidades de desarrollo de sus habitantes.
 
@@ -535,45 +535,45 @@
       .col-lg-3.col-md-6.col-9.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta--boton.color-secundario.BGR12.hg-05.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema3/img40.png')
+            img(src='@/assets/curso/tema3/img40.png' alt="Imagen decorativa")
           p.mb-0 Fortalecimiento del proceso de participación ciudadana a través de los acuerdos concertados entre los actores locales comprometidos.
       .col-lg-3.col-md-6.col-9.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta--boton.color-secundario.BGR12.hg-05.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema3/img41.png')
+            img(src='@/assets/curso/tema3/img41.png' alt="Imagen decorativa")
           p.mb-0 Una visión de futuro sobre la situación ambiental de la zona.
       .col-lg-3.col-md-6.col-9.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta--boton.color-secundario.BGR12.hg-05.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema3/img42.png')
+            img(src='@/assets/curso/tema3/img42.png' alt="Imagen decorativa")
           p.mb-0 Una agenda para la acción, conteniendo los problemas a enfrentar, los objetivos y metas a lograr. 
       .col-lg-3.col-md-6.col-9.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta--boton.color-secundario.BGR12.hg-05.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema3/img43.png')
+            img(src='@/assets/curso/tema3/img43.png' alt="Imagen decorativa")
           p.mb-0 Una línea de base con indicadores de la situación ambiental, que permita evaluar los logros de las metas propuestas.
 
     p El Plan de Acción Ambiental (PAA) debe incluir todo el territorio, y en los casos que sea necesario se pueden incluir propuestas que vinculen a otros municipios, una vez se realiza el Plan de Acción Ambiental (PAA), es posible:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="zoom-in")
       .tarjeta-avatar
-        img(src='@/assets/curso/tema3/img44.png')
+        img(src='@/assets/curso/tema3/img44.png' alt="Imagen decorativa")
         .tarjeta.color-primario.p-4
           p.mb-0.text-center Definir una correcta política ambiental enfocada en la sostenibilidad de los recursos.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema3/img45.png')
+        img(src='@/assets/curso/tema3/img45.png' alt="Imagen decorativa")
         .tarjeta.color-primario.p-4
           p.mb-0.text-center Definir las acciones necesarias para subsanar todas las incidencias ambientales.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema3/img46.png')
+        img(src='@/assets/curso/tema3/img46.png' alt="Imagen decorativa")
         .tarjeta.color-primario.p-4
           p.mb-0.text-center Enfrentar los efectos negativos identificados.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema3/img47.png')
+        img(src='@/assets/curso/tema3/img47.png' alt="Imagen decorativa")
         .tarjeta.color-primario.p-4
           p.mb-0.text-center Contribuir al fortalecimiento de la institucionalidad.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema3/img48.png')
+        img(src='@/assets/curso/tema3/img48.png' alt="Imagen decorativa")
         .tarjeta.color-primario.p-4
           p.mb-0.text-center Poner en marcha los espacios y mecanismos de participación ciudadana.
           
@@ -592,11 +592,11 @@
           p.mb-0 De acuerdo con el Ministerio de Ambiente y Desarrollo Sostenible (MADS), el objetivo principal de las agendas interministeriales es generar espacios de diálogo intercultural e incorporar la mirada, el enfoque, la posición de las autoridades tradicionales, étnico territoriales y líderes comunitarios en la gestión ambiental sobre la protección del territorio, identidad cultural, ordenamiento, uso y aprovechamiento sostenible, en los instrumentos de planificación institucional del Sistema Nacional Ambiental (SINA) y en la gestión intersectorial, a la vez que contar con insumos directos para la elaboración de medidas administrativas o legislativas.
         p.mb-0 Tales agendas permiten tener una línea base de propuestas temáticas propias para trabajar conjuntamente con la autoridad ambiental, las cuales deben articularse a los instrumentos institucionales del SINA, de otros sectores y entes territoriales para su implementación y acción articulada.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img49.png')
+        img(src='@/assets/curso/tema3/img49.png' alt="Imagen decorativa")
 
     .row.justify-content-end.align-items-center.mb-5
       .col-lg-4.col-8.px-4.img-06(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img50.svg')
+        img(src='@/assets/curso/tema3/img50.svg' alt="Imagen decorativa")
       .col-10.BG08.p-4(data-aos="fade-left")
         .row.justify-content-end
           .col-lg-10
