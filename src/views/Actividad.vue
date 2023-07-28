@@ -10,7 +10,7 @@
             img(src="@/assets/template/arrastrar.svg")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Relacionar terminos
+          h2 Relacionar términos
         p.mb-4 Manejar los conceptos de promotoría para la coordinación de campañas ambientales teniendo en cuenta las características de la población.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

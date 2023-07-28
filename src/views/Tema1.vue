@@ -160,7 +160,7 @@
                 | Una filosofía sustentada en la estabilidad del ecosistema global. 
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #4DB1F0;")
-                | La buena calidad de la vida y del medio ambiente, donde se desarrolla está como una preocupación central. 
+                | La buena calidad de la vida y del medio ambiente, donde se desarrolla esta como una preocupación central. 
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #4DB1F0;")
                 | La protección, la conservación y el mejoramiento del medio ambiente como una meta. 
