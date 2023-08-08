@@ -142,7 +142,7 @@
       .col-lg-8(data-aos="fade-left")
         p Para iniciar se debe tener claro que la participación comunitaria debe ser un proceso activo y voluntario; si se piensa en este tema como un formalismo obligatorio, se pierde el sentido y la importancia de estas acciones.
         p La participación debe ser una construcción colectiva, es decir, no es solo consultar con personas su concepto referente a un tema, implica a su vez, la planificación de propuestas, gestión de recursos, ejecución de actividades, evaluación de proyectos e interpretación.
-        p.mb-0 En esa construcción colectiva se encuentra una infinidad de metodologías aplicables, para este caso se tomará como referencia la clasificación otorgada por Soliz y Maldonado (2012), en su documento Guía de metodologías comunitarias participativas.
+        p.mb-0 En esa construcción colectiva se encuentra una infinidad de metodologías aplicables, para este caso se tomará como referencia la clasificación otorgada por Soliz y Maldonado (2012), en su documento "Guía de metodologías comunitarias participativas".
 
     .row.justify-content-start.mb-4
       .col-auto.BGRS01.px-5.py-3(data-aos="fade-right")
@@ -272,7 +272,7 @@
           .col-lg-6.col-10
             img(src='@/assets/curso/tema3/img17.svg' alt="Imagen decorativa")
 
-    p.mb-5 Es importante que las acciones respondan a los compromisos establecidos. Estas acciones podrán sistematizarse luego en una matriz como la anterior precisando responsables para cada actividad. En caso de considerar la planificación semanal o mensual demasiado específica, se pueden realizar ejercicios de campo de fuerzas o de estrategias para el cambio centrados en la acción. Es decir, se podrían graficar grandes estrategias o acciones (p. 20).
+    p.mb-5 Es importante que las acciones respondan a los compromisos establecidos. Estas acciones podrán sistematizarse luego en una matriz como la anterior, precisando responsables para cada actividad. En caso de considerar la planificación semanal o mensual demasiado específica, se pueden realizar ejercicios de campo de fuerzas o de estrategias para el cambio centrados en la acción. Es decir, se podrían graficar grandes estrategias o acciones (p. 20).
     .h4.texto-primario(data-aos="fade-right") Guías etnográficas
     p Este es un proceso que se realiza a través de la observación directa y entrevistas; su objetivo es recoger información de las personas de forma directa, su base primordial es distinguir qué nivel de exposición se está trabajando. En este sentido, Soliz y Maldonado (2012) relaciona los siguientes: 
     p Las comunidades afectadas por problemáticas socioambientales sufren lo que se podría llamar un proceso de exposición múltiple que se articula en tres escenarios:
@@ -356,7 +356,9 @@
     ModalA(:abrir-modal.sync="modal1")
       .row.justify-content-center
         .col-11
-          .h4 Árbol de sueños, miedos y compromisos
+          .titulo-sexto.color-secundario
+            h5 Figura 1.
+            span Árbol de sueños, miedos y compromisos
           figure
             img(src='@/assets/curso/tema3/img25.jpg' alt="Imagen que representa el árbol de sueños, miedos y compromisos, con todas sus partes y procesos")
             figcaption Nota. <a style="font-weigh: 400">Adaptada de Soliz y Maldonado (2012).</a>
@@ -364,13 +366,17 @@
     ModalA(:abrir-modal.sync="modal2")
       .row.justify-content-center
         .col-11
-          .h4 Matriz FODA (Fortalezas, Oportunidad, Debilidades y Amenazas)
+          .titulo-sexto.color-secundario
+            h5 Figura 2.
+            span  Matriz FODA (Fortalezas, Oportunidad, Debilidades y Amenazas)
           img(src='@/assets/curso/tema3/img26.jpg' alt="Esquema de la matriz FODA, el cual representa las Fortalezas, Oportunidades, Debilidades y Amenazas")
 
     ModalA(:abrir-modal.sync="modal3")
       .row.justify-content-center
         .col-11
-          .h4 Diagrama espina de pescado
+          .titulo-sexto.color-secundario
+            h5 Figura 3.
+            span Diagrama espina de pescado
           figure
             img(src='@/assets/curso/tema3/img27.jpg' alt="Imagen que representa el Diagrama de espina de pescado, el cual a través de un ejemplo relacionado con la salud explica su funcionamiento")
             figcaption Nota. <a style="font-weigh: 400">Adaptada de Soliz y Maldonado (2012).</a>
@@ -575,9 +581,7 @@
       .tarjeta-avatar
         img(src='@/assets/curso/tema3/img48.png' alt="Imagen decorativa")
         .tarjeta.color-primario.p-4
-          p.mb-0.text-center Poner en marcha los espacios y mecanismos de participación ciudadana.
-          
-    p El Plan de Acción Ambiental (PAA) debe incluir todo el territorio, y en los casos que sea necesario se pueden incluir propuestas que vinculen a otros municipios.
+          p.mb-0.text-center Poner en marcha los espacios y mecanismos de participación ciudadana.          
 
     separador
     #t_3_4.titulo-segundo.color-acento-botones(data-aos="fade-right")

@@ -224,12 +224,6 @@ export default {
   referencias: [
     {
       referencia:
-        'Barón, G. (2014). El medio ambiente es responsabilidad social de todos. Universidad Católica de Colombia.',
-      link:
-        'https://repository.ucatolica.edu.co/bitstream/10983/1711/1/El%20medio%20ambiente%20es%20responsabilidad%20social%20de%20todos%20%20Facultad%20de%20Psicologia%20Universidad%20Cat%C3%B3lica.pdf',
-    },
-    {
-      referencia:
         'Causse, M. (2009). El concepto de comunidad desde el punto de vista socio-histórico-cultural y lingüístico. Centro de información y gestión tecnológica de Santiago de Cuba.',
     },
     {
@@ -293,12 +287,6 @@ export default {
         'Ministerio de Medio Ambiente y Ministerio de Salud. (2002). Resolución 1164 de 2002 “por la cual se adopta el Manual de Procedimientos para la Gestión Integral de los residuos hospitalarios y similares”. Ministerio de Medio Ambiente y Ministerio de Salud.',
       link:
         'http://www.udea.edu.co/wps/wcm/connect/udea/8ef2b54c-c7a3-4d32-8dde-ddf2c0bd9dc9/Resoluci%C3%B3n+1164+de+2002.pdf?MOD=AJPERES',
-    },
-    {
-      referencia:
-        'Ministerio de Vivienda, Ciudad y Territorio, Ministerio de Ambiente y Desarrollo Sostenible. (2014). Resolución 0754 de 2014 “Por la cual se adopta la metodología para la formulación, implementación, evaluación, seguimiento, control y actualización de los Planes de Gestión Integral de Residuos Sólidos”. Ministerio de Vivienda, Ciudad y Territorio, Ministerio de Ambiente y Desarrollo Sostenible.',
-      link:
-        'http://www.corantioquia.gov.co/SiteAssets/PDF/Gesti%C3%B3n%20ambiental/Residuos/Anexo%20residuos%20ordinarios/Resoluci%C3%B3n%200754%20del%202014.pdf',
     },
     {
       referencia:

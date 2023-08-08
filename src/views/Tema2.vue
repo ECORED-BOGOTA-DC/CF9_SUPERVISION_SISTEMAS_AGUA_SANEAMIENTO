@@ -316,7 +316,7 @@
           div(numero="3" titulo="Objetivo de control")
             p.mb-0 Es la razón por la cual se realiza la actividad, es decir, qué se pretende con el alcance, ejemplo, monitorear y controlar el consumo del recurso hídrico.
           div(numero="4" titulo="Metas")
-            p.mb-0 Es el resultado esperado, una vez se empiece a realizar la actividad propuesta, por ejemplo, disminuir el 5% del consumo de agua con respecto al consumo del año 2018.
+            p.mb-0 Es el resultado esperado, una vez se empiece a realizar la actividad propuesta, por ejemplo, disminuir el 5 % del consumo de agua con respecto al consumo del año 2018.
           div(numero="5" titulo="Actividad")
             p.mb-0 Es lo que debe realizar física o digitalmente para poder llevar a cabo los objetivos y las metas, por ejemplo, registrar el consumo mensual de agua en el formato FOR-BS-350- 068.
           div(numero="6" titulo="Acción")
@@ -358,7 +358,7 @@
       .col-lg-1.col-2(data-aos="fade-right")
         img(src='@/assets/curso/tema2/img30.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
-        p.mb-0 #[strong La Corporación Autónoma Regional - CAR], en su Escuela Virtual Ambiental (EVA), define el Sistema de Gestión Ambiental (Sigam) como una propuesta organizacional para el adecuado funcionamiento de la administración municipal, para adelantar la gestión ambiental en su territorio, mantener la oferta ambiental y orientar los procesos culturales y sociales hacia la sostenibilidad.
+        p.mb-0 #[strong La Corporación Autónoma Regional - CAR], en su Escuela Virtual Ambiental (EVA), define el Sistema de Gestión Ambiental (SIGAM) como una propuesta organizacional para el adecuado funcionamiento de la administración municipal, para adelantar la gestión ambiental en su territorio, mantener la oferta ambiental y orientar los procesos culturales y sociales hacia la sostenibilidad.
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-md-10.mb-lg-0.mb-4(data-aos="fade-right") 
@@ -366,19 +366,19 @@
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema2/img31.png' alt="Imagen decorativa")
           .tarjeta.BGR02A.hg-03.p-4
-            p.ms-5.mb-0 #[strong Objetivo del Sigam:] es la realización de un proceso de análisis, conceptualización y propuesta técnica, orientado a desarrollar un modelo que guíe la Gestión Ambiental Municipal (GAM) para alcanzar la sostenibilidad ambiental, social y económica del municipio.
+            p.ms-5.mb-0 #[strong Objetivo del SIGAM:] es la realización de un proceso de análisis, conceptualización y propuesta técnica, orientado a desarrollar un modelo que guíe la Gestión Ambiental Municipal (GAM) para alcanzar la sostenibilidad ambiental, social y económica del municipio.
       .col-lg-6.col-md-10(data-aos="fade-left") 
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema2/img32.png' alt="Imagen decorativa")
           .tarjeta.BGR02A.hg-03.p-4
-            p.ms-5.mb-0 #[strong Actores del Sigam:] existen diferentes actores que se ven involucrados en el Sigam, entre ellos los actores económicos, que representan la pequeña, mediana y gran industria, el comercio, las finanzas, el turismo, la venta de servicios, la actividad principal del municipio y asociaciones de gremios. Los actores sociales son representantes de interés colectivo, tales como habitantes urbanos y rurales, ONG, grupos ambientales, madres comunitarias y juntas de acción comunal.
+            p.ms-5.mb-0 #[strong Actores del SIGAM:] existen diferentes actores que se ven involucrados en el SIGAM, entre ellos los actores económicos, que representan la pequeña, mediana y gran industria, el comercio, las finanzas, el turismo, la venta de servicios, la actividad principal del municipio y asociaciones de gremios. Los actores sociales son representantes de interés colectivo, tales como habitantes urbanos y rurales, ONG, grupos ambientales, madres comunitarias y juntas de acción comunal.
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema2/img33.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
-        p La adopción de un Sigam se da mediante un acuerdo municipal donde se fijan los objetivos de la política y la gestión ambiental del municipio, se determina la dependencia responsable de la aplicación, se definen funciones ambientales, se definen las entidades que lo conforman y se reglamenta el Consejo Ambiental Municipal.
+        p La adopción de un SIGAM se da mediante un acuerdo municipal donde se fijan los objetivos de la política y la gestión ambiental del municipio, se determina la dependencia responsable de la aplicación, se definen funciones ambientales, se definen las entidades que lo conforman y se reglamenta el Consejo Ambiental Municipal.
         p.mb-0 El Consejo Ambiental Municipal es el coordinador de la política ambiental del municipio. Está conformado por el alcalde y las secretarías, así como por diferentes invitados, tales como representantes de las corporaciones autónomas regionales, Ministerio de ambiente, alcaldías vecinas, entre otros.
 
       
@@ -393,7 +393,7 @@
                 | Asesorar a la Secretaría de Medio Ambiente para la formulación y fijación de la política ambiental del municipio.
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #4DB1F0;")
-                | Proponer mecanismos institucionales, financieros y técnicos que sean necesarios en el fortalecimiento y coordinación de las entidades pertenecientes al Sigam y para la coordinación de este con las demás entidades del municipio.
+                | Proponer mecanismos institucionales, financieros y técnicos que sean necesarios en el fortalecimiento y coordinación de las entidades pertenecientes al SIGAM y para la coordinación de este con las demás entidades del municipio.
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #4DB1F0;")
                 | Proponer al Concejo Municipal, por conducto del alcalde, las recomendaciones que considere pertinentes para adecuar el uso del territorio del municipio con los planes, programas y proyectos aprobados.
@@ -464,21 +464,7 @@
         .row.justify-content-center
           .col-lg-5
             .h4 Vinculados
-            p Podrán tener la condición de vinculados al PDA, previa aprobación del comité directivo, las personas jurídicas de derecho público, privado o mixto, mediante el aporte de recursos financieros, técnicos o humanos. 
-            p Estructuras operativas. Igualmente hacen parte de los PDA, las siguientes estructuras operativas:
-            ul.lista-ul--color
-              li(style="margin-bottom: 5px")
-                i.fas.fa-chevron-circle-right(style="color: #FFA031;")
-                | EL comité directivo.
-              li(style="margin-bottom: 5px")
-                i.fas.fa-chevron-circle-right(style="color: #FFA031;")
-                | El gestor.
-              li(style="margin-bottom: 5px")
-                i.fas.fa-chevron-circle-right(style="color: #FFA031;")
-                | La gerencia asesora.
-              li(style="margin-bottom: 5px")
-                i.fas.fa-chevron-circle-right(style="color: #FFA031;")
-                | El esquema fiduciario para el manejo de los recursos.
+            p.mb-0 Podrán tener la condición de vinculados al PDA, previa aprobación del comité directivo, las personas jurídicas de derecho público, privado o mixto, mediante el aporte de recursos financieros, técnicos o humanos.
           .col-lg-5.col-10
             img(src='@/assets/curso/tema2/img37.png' alt="Imagen decorativa")
         .row.justify-content-center
@@ -599,7 +585,7 @@
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema2/img48.svg' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
-        p De acuerdo con la resolución 1164 (2002) el Plan de Gestión Integral de Residuos Hospitalarios y Similares (Pgirh) es el documento diseñado por los generadores, los prestadores del servicio de desactivación y especial de aseo, el cual contiene, de una manera organizada y coherente, las actividades necesarias que garantizan la Gestión Integral de los Residuos Hospitalarios.
+        p De acuerdo con la resolución 1164 (2002) el Plan de Gestión Integral de Residuos Hospitalarios y Similares (PGIRH) es el documento diseñado por los generadores, los prestadores del servicio de desactivación y especial de aseo, el cual contiene, de una manera organizada y coherente, las actividades necesarias que garantizan la Gestión Integral de los Residuos Hospitalarios.
         .cajon.color-primario.p-4
           p.mb-0 Los generadores, prestadores del servicio de desactivación y prestadores del servicio especial de aseo de residuos hospitalarios y similares, diseñarán e implementarán el PGIRH de acuerdo con las actividades que desarrollen, teniendo como punto de partida su compromiso institucional de carácter sanitario y ambiental, el cual debe ser real, claro, con propuestas de mejoramiento continuo de los procesos y orientado a la minimización de riesgos para la salud y el medio ambiente.
 
@@ -608,8 +594,7 @@
         p El compromiso debe responder claramente a las preguntas qué, cómo, cuándo, dónde, por qué, para qué y con quién.
         p La planeación se inicia con el diagnóstico del establecimiento generador, para identificar los aspectos que no presentan conformidad con la normatividad ambiental y sanitaria vigente y establecer de esta manera los ajustes y medidas correctivas pertinentes.
         p El Plan para la Gestión Integral de Residuos Hospitalarios y Similares debe enfocarse a diseñar e implementar buenas prácticas de gestión, orientadas a la prevención de los efectos perjudiciales para la salud y el ambiente, por el inadecuado manejo de los residuos, al igual que al mejoramiento en la gestión.
-        p La gestión debe orientarse a minimizar la generación de residuos, mediante la utilización de insumos y procedimientos con menos aportes a la corriente de residuos y una adecuada segregación para minimizar la cantidad de residuos peligrosos. Además de lo anterior, se realizará el aprovechamiento cuando sea técnica, ambiental y sanitariamente viable.
-        p.mb-0 El Plan para la Gestión Integral de Residuos Hospitalarios y Similares debe enfocarse a diseñar e implementar buenas prácticas de gestión, orientadas a la prevención de los efectos perjudiciales para la salud y el ambiente, por el inadecuado manejo de los residuos, al igual que al mejoramiento en la gestión.
+        p.mb-0 La gestión debe orientarse a minimizar la generación de residuos, mediante la utilización de insumos y procedimientos con menos aportes a la corriente de residuos y una adecuada segregación para minimizar la cantidad de residuos peligrosos. Además de lo anterior, se realizará el aprovechamiento cuando sea técnica, ambiental y sanitariamente viable.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img49.png' alt="Imagen decorativa")
 
@@ -632,7 +617,7 @@
         img(src='@/assets/curso/tema2/img50.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Acorde con las directrices del Ministerio de Ambiente, el Ministerio de Educación Nacional y la Política Nacional de Educación Ambiental (PNEA) (2002), los Proyectos Ambientales Escolares (PRAE) son proyectos pedagógicos que promueven el análisis y la comprensión de los problemas y las potencialidades ambientales locales, regionales y nacionales, y generan espacios de participación para implementar soluciones acordes con las dinámicas naturales y socioculturales.
-        p.mb-0 La óptica de su quehacer es la formación desde una concepción de desarrollo sostenible, entendido como el aprovechamiento de los recursos en el presente, sin desmedro de su utilización por las generaciones futuras, con referentes espacios temporales y sobre la base del respeto a la diversidad y a la autonomía y que contempla, no solo aspectos económicos sino sociales, culturales, políticos, éticos y estéticos, en pro de una gestión sostenible del entorno.
+        p.mb-0 La óptica de su quehacer es la formación desde una concepción de desarrollo sostenible, entendido como el aprovechamiento de los recursos en el presente, sin desmedro de su utilización por las generaciones futuras, con referentes espaciotemporales y sobre la base del respeto a la diversidad y a la autonomía y que contempla, no solo aspectos económicos sino sociales, culturales, políticos, éticos y estéticos, en pro de una gestión sostenible del entorno.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5

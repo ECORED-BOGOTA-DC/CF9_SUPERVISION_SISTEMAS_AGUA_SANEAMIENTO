@@ -59,7 +59,7 @@
       .col-auto.BGRS01.px-5.py-3(data-aos="fade-right")
         .h4.text-white.mb-0 Objetivos
     
-    p Teniendo en cuenta el documento La educación ambiental, una estrategia pedagógica que contribuye a la solución de la problemática ambiental en Colombia, dentro de los objetivos más relevantes de la educación ambiental se encuentran:
+    p Teniendo en cuenta el documento "La educación ambiental, una estrategia pedagógica que contribuye a la solución de la problemática ambiental en Colombia", dentro de los objetivos más relevantes de la educación ambiental se encuentran:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -180,8 +180,8 @@
       .col-auto.BGRS01.px-5.py-3(data-aos="fade-right")
         .h4.text-white.mb-0 Niveles
       
-    p Aunque dependiendo del autor se pueden encontrar diferentes jerarquías o niveles relacionados con la educación ambiental, los más usuales son los cuatro (4) niveles, que define Pomachagua (2010).
-    p.mb-5 A continuación se describen dichas jerarquías en la educación ambiental.
+    p Aunque dependiendo del autor, se pueden encontrar diferentes jerarquías o niveles relacionados con la educación ambiental, los más usuales son los cuatro (4) niveles, que define Pomachagua (2010).
+    p.mb-5 A continuación, se describen dichas jerarquías en la educación ambiental.
     
     .BGR09.p-4.mb-5(data-aos="zoom-in")
       LineaTiempoC.color-primario(text-small)
@@ -227,7 +227,7 @@
     #t_1_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.2 Promotoría ambiental
 
-    p De acuerdo con Maldonado (2013), en su artículo Promotoría ambiental describe este término como:
+    p De acuerdo con Maldonado (2013), en su artículo "Promotoría ambiental" describe este término como:
 
     .row.justify-content-center.align-items-end.mb-5
       .col-12.BGRS10.p-4(data-aos="fade-right")
@@ -493,8 +493,7 @@
       .py-4.py-md-5(titulo="Territorio natural" :icono="require('@/assets/curso/tema1/img37.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
-            p Implica un recorte que reconoce la existencia de actividades de mayor complejidad, por ejemplo, sistemas de asentamientos humanos y sus infraestructuras, pero que fundamentalmente refiere a la existencia de una comunidad que se reconoce y que tiene como autorreferencia primaria el propio territorio y que está regulada mediante un dispositivo político-administrativo que define las competencias de ese territorio, su ubicación y el papel que tiene en el ordenamiento jurídico nacional, es decir, un territorio organizado tiene una estructura de administración y, en algunos casos, también de Gobierno. Estos territorios pasan a ser sujetos de intervenciones promotoras del desarrollo.
-            p.mb-0 Se refiere a uno en el cual el hombre ya ha instalado sistemas, por ejemplo, de transporte, infraestructuras y actividades productivas extractivas.
+            p.mb-0 Se refiere a un recorte que solo reconoce los elementos de la naturaleza, sin que medie intervención humana.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img39.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Territorio organizado" :icono="require('@/assets/curso/tema1/img38.png')")
